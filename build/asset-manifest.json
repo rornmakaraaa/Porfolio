@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/rornmakaraaa/Porfoliio.git/static/css/main.039bf95e.css",
+    "main.js": "/rornmakaraaa/Porfoliio.git/static/js/main.53ed820b.js",
+    "static/media/Profile.webp": "/rornmakaraaa/Porfoliio.git/static/media/Profile.95c4a03f852538272c98.webp",
+    "static/media/Hello.gif": "/rornmakaraaa/Porfoliio.git/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/Instagrams.webp": "/rornmakaraaa/Porfoliio.git/static/media/Instagrams.12fad543022fdf914154.webp",
+    "static/media/Photo.jpg": "/rornmakaraaa/Porfoliio.git/static/media/Photo.acda7b83b7dd16efbf07.jpg",
+    "static/media/Resume.pdf": "/rornmakaraaa/Porfoliio.git/static/media/Resume.dc83903b95e6fcda4353.pdf",
+    "static/media/node-icon.svg": "/rornmakaraaa/Porfoliio.git/static/media/node-icon.cc3d45a160579a330a5c17cc2c8f1407.svg",
+    "static/media/typescript-icon.svg": "/rornmakaraaa/Porfoliio.git/static/media/typescript-icon.f3bc0fd998dea6b1266965436af97a49.svg",
+    "static/media/react-icon.svg": "/rornmakaraaa/Porfoliio.git/static/media/react-icon.a010f287ea79ad0673b610a223faa951.svg",
+    "index.html": "/rornmakaraaa/Porfoliio.git/index.html",
+    "static/media/telegram.svg": "/rornmakaraaa/Porfoliio.git/static/media/telegram.45bf2371ee6528cc27d66c08f8e43356.svg",
+    "static/media/phone-icon.svg": "/rornmakaraaa/Porfoliio.git/static/media/phone-icon.fc7195139d684fa2f6bb03b8b9816095.svg",
+    "static/media/github.svg": "/rornmakaraaa/Porfoliio.git/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
+    "static/media/email-icon.svg": "/rornmakaraaa/Porfoliio.git/static/media/email-icon.a5dd245e834641e729e77e40309039c4.svg",
+    "static/media/external-link.svg": "/rornmakaraaa/Porfoliio.git/static/media/external-link.8ce0d189635b118259ec51d8c9b4a1d0.svg",
+    "static/media/html-icon.svg": "/rornmakaraaa/Porfoliio.git/static/media/html-icon.185baee7db74b83bf22eec6a6def7644.svg",
+    "static/media/css-icon.svg": "/rornmakaraaa/Porfoliio.git/static/media/css-icon.212d777ae2db63edb235490d487dc292.svg",
+    "static/media/linkedin.svg": "/rornmakaraaa/Porfoliio.git/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
+    "static/media/js-icon.svg": "/rornmakaraaa/Porfoliio.git/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
+    "static/media/instagram.svg": "/rornmakaraaa/Porfoliio.git/static/media/instagram.7d97391465d60f2909c444d267ea80ff.svg",
+    "main.039bf95e.css.map": "/rornmakaraaa/Porfoliio.git/static/css/main.039bf95e.css.map",
+    "main.53ed820b.js.map": "/rornmakaraaa/Porfoliio.git/static/js/main.53ed820b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039bf95e.css",
+    "static/js/main.53ed820b.js"
+  ]
+}

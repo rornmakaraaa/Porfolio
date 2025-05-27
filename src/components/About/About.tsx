@@ -17,7 +17,7 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-            Hi there! I'm Makara, a website developer with a passion for creating custom online experiences. With a skill set including HTML, CSS, JavaScript, and React.
+            Hi there! I'm Makara, a website developer with a passion for creating custom online experiences. With a skill set including HTML, CSS, JavaScript, Next and React.
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "4rem", marginBottom: "2rem" }}>
